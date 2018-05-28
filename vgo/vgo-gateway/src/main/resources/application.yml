@@ -1,0 +1,5 @@
+## YAML Template.
+---
+application:
+    session:
+        timeout: 3600000

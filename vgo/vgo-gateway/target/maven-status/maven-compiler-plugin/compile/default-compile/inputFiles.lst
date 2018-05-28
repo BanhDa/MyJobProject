@@ -1,0 +1,10 @@
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\filter\authen\JWTAuthenticationFilter.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\service\base\GateWayService.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\config\OAuth2AuthorizationServerConfig.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\GateWayApplication.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\service\impl\SimpleGateWayService.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\config\SecurityConstants.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\cache\SessionManagement.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\request\LoginRequest.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\controller\AuthenticationController.java
+E:\job\Vgo\vgo-gateway\src\main\java\com\mycompany\vgo\gateway\service\impl\UserDetailsServiceImpl.java

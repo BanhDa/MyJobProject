@@ -1,0 +1,10 @@
+com\mycompany\vgo\gateway\controller\AuthenticationController.class
+com\mycompany\vgo\gateway\filter\authen\JWTAuthenticationFilter.class
+com\mycompany\vgo\gateway\config\OAuth2AuthorizationServerConfig.class
+com\mycompany\vgo\gateway\service\impl\SimpleGateWayService.class
+com\mycompany\vgo\gateway\config\SecurityConstants.class
+com\mycompany\vgo\gateway\request\LoginRequest.class
+com\mycompany\vgo\gateway\service\impl\UserDetailsServiceImpl.class
+com\mycompany\vgo\gateway\cache\SessionManagement.class
+com\mycompany\vgo\gateway\GateWayApplication.class
+com\mycompany\vgo\gateway\service\base\GateWayService.class
